@@ -1,0 +1,14 @@
+{
+  "scenario_name": "Junior Python Developer",
+  "thresholds": {
+    "min_experience": 6,
+    "max_experience": 36
+  },
+  "lists": {
+    "required_skills": ["Python", "Git"],
+    "forbidden_skills": ["Cobol", "VB6"]
+  },
+  "critical_rules": {
+    "must_have_contacts": true
+  }
+}
